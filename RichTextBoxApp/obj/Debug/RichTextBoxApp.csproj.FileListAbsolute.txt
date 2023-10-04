@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\RichTextBoxApp\bin\Debug\RichTextBoxApp.exe.config
+C:\Users\ucenik\source\repos\RichTextBoxApp\bin\Debug\RichTextBoxApp.exe
+C:\Users\ucenik\source\repos\RichTextBoxApp\bin\Debug\RichTextBoxApp.pdb
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.Form1.resources
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.exe
+C:\Users\ucenik\source\repos\RichTextBoxApp\obj\Debug\RichTextBoxApp.pdb
